@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1.70666in" height="1.70666in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1707 1707"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="853.335" y1="0.00393701" x2="853.335" y2="1706.67">
+   <stop offset="0" style="stop-opacity:1; stop-color:#6666CC"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:fuchsia"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FF6600"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M973 1079l-10 -38c-57,18 -163,18 -219,0l-10 38 119 99 120 -99zm514 628l-1267 0c-17,0 -30,-14 -30,-30l0 -294c0,-157 131,-274 286,-311l-89 -565c-82,-23 -64,-144 20,-144l131 0c13,-114 98,-209 211,-234l-12 -95c-2,-18 12,-34 30,-34l173 0c18,0 32,16 30,34l-12 95c113,26 197,120 210,234l132 0c83,0 102,121 19,144l-88 565c154,37 286,154 286,311l0 294c0,16 -14,30 -30,30zm-952 -645c47,-4 94,-2 141,-2l12 -44c-79,-47 -131,-133 -131,-233l0 -273 -109 0 87 552zm154 58l-89 0 104 230 107 -129 -122 -101zm-154 3c-40,4 -82,16 -117,32 82,98 133,221 158,352l554 0c25,-131 76,-253 159,-352 -34,-15 -79,-28 -117,-32l-135 296c-9,20 -36,24 -50,7l-134 -162 -133 162c-15,17 -42,13 -51,-7l-134 -296zm-170 62c-70,49 -115,120 -115,198l0 124 265 0c-30,-153 -92,-256 -150,-322zm-115 382l0 80 282 0c-1,-28 -4,-55 -7,-80l-275 0zm342 80l522 0c2,-27 4,-54 7,-80l-536 0c3,26 6,53 7,80zm582 0l283 0 0 -80 -276 0c-3,25 -5,52 -7,80zm283 -140l0 -124c0,-78 -45,-149 -115,-198 -58,66 -120,168 -151,322l266 0zm-350 -387l-89 0 -122 101 107 129 104 -230zm-77 -60c46,0 96,-2 142,2l86 -552 -108 0 0 273c0,100 -52,186 -131,233l11 44zm-219 -918l12 101 60 0c3,-25 7,-81 13,-102l10 -81 -105 0 10 82zm-39 148c-8,-11 -14,-84 -16,-101 -83,21 -145,90 -157,174l509 0c-12,-84 -74,-153 -157,-174l-11 88c-2,15 -15,26 -30,26l-115 0c-10,0 -18,-5 -23,-13zm-186 160l714 0c17,0 17,-27 0,-27l-893 0c-18,0 -18,27 0,27l179 0zm504 60l-473 0 0 273c0,116 94,210 210,210l53 0c116,0 210,-94 210,-210l0 -273z"/>
+ </g>
+</svg>
